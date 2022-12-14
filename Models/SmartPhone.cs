@@ -14,9 +14,9 @@ namespace ProjetoSistemaCelular.Models
         }
 
         public string Numero { get; set; }
-        public string Modelo { get; set; }
-        public string Imei { get; set; }
-        public int Memoria { get; set; }
+        private string Modelo { get; set; }
+        private string Imei { get; set; }
+        private int Memoria { get; set; }
         
         
         public virtual void Ligar() {
