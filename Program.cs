@@ -7,3 +7,8 @@ var smartPhone2 = new Iphone("2878782", "11", "MHDJ3BR/A", 128 );
 smartPhone1.Ligar();
 smartPhone1.InstalarAplicativo("Whatsapp");
 smartPhone1.ReceberLigacao();
+
+
+smartPhone2.Ligar();
+smartPhone2.InstalarAplicativo("Whatsapp");
+smartPhone2.ReceberLigacao();
