@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\bin\Debug\net7.0\ProjetoSistemaCelular.exe
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\bin\Debug\net7.0\ProjetoSistemaCelular.deps.json
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\bin\Debug\net7.0\ProjetoSistemaCelular.runtimeconfig.json
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\bin\Debug\net7.0\ProjetoSistemaCelular.dll
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\bin\Debug\net7.0\ProjetoSistemaCelular.pdb
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.AssemblyInfo.cs
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.dll
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\refint\ProjetoSistemaCelular.dll
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.pdb
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ProjetoSistemaCelular.genruntimeconfig.cache
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\ProjetoSistemaCelular\obj\Debug\net7.0\ref\ProjetoSistemaCelular.dll
